@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.51d2e94e.js",
-    "index.html": "/index.html",
-    "main.51d2e94e.js.map": "/static/js/main.51d2e94e.js.map"
+    "main.js": "/rgb-cube/static/js/main.51d2e94e.js",
+    "index.html": "/rgb-cube/index.html",
+    "main.51d2e94e.js.map": "/rgb-cube/static/js/main.51d2e94e.js.map"
   },
   "entrypoints": [
     "static/js/main.51d2e94e.js"
