@@ -1,1 +1,1 @@
-An interactive RGB cube: [ethansaxenian.github.io/rgb-cube/](ethansaxenian.github.io/rgb-cube/)
+An interactive RGB cube: https://ethansaxenian.github.io/rgb-cube/
